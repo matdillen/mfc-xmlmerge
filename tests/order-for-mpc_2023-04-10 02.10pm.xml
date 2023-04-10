@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+  <details>
+    <quantity>47</quantity>
+    <bracket>18</bracket>
+    <stock>(S30) Standard Smooth</stock>
+    <foil>false</foil>
+  </details>
+  <fronts>
+    <card>
+      <id>1SyMCGsa9mipjARSoESl5gg52VB9qSG18</id>
+      <slots>1,2,3</slots>
+      <name>Gilded Drake.png</name>
+      <query>gilded drake</query>
+    </card>
+    <card>
+      <id>1fmaiuHSUQBuMha9gsRzr3Z-WkepqIuhw</id>
+      <slots>0</slots>
+      <name>Gilded Drake.png</name>
+      <query>gilded drake</query>
+    </card>
+    <card>
+      <id>1SyMCGsa9mipjARSoESl5gg52VB9qSG18</id>
+      <slots>5,6,7</slots>
+      <name>Gilded Drake.png</name>
+      <query>gilded drake</query>
+    </card>
+    <card>
+      <id>1fmaiuHSUQBuMha9gsRzr3Z-WkepqIuhw</id>
+      <slots>4</slots>
+      <name>Gilded Drake.png</name>
+      <query>gilded drake</query>
+    </card>
+    <card>
+      <id>1SyMCGsa9mipjARSoESl5gg52VB9qSG18</id>
+      <slots>9,10,11</slots>
+      <name>Gilded Drake.png</name>
+      <query>gilded drake</query>
+    </card>
+    <card>
+      <id>17u7A4xDhDHjsRV89liuHfi5PJOo_v3he</id>
+      <slots>8</slots>
+      <name>Gilded Drake (JP Archive 2).png</name>
+      <query>gilded drake</query>
+    </card>
+    <card>
+      <id>1DSp2kfN0H-9069vfzmsFSC3bw-aDhe_k</id>
+      <slots>12,14,15</slots>
+      <name>Tendershoot Dryad.png</name>
+      <query>tendershoot dryad</query>
+    </card>
+    <card>
+      <id>1CfEMkzXWhFdtmSIIAc4OLKhlNIuaGtx6</id>
+      <slots>13</slots>
+      <name>Tendershoot Dryad (Yongjae Choi-147).jpg</name>
+      <query>tendershoot dryad</query>
+    </card>
+    <card>
+      <id>12IqZHD1UiN6p95B8MxYquuzfyrF4WE2u</id>
+      <slots>16</slots>
+      <name>Wooded Foothills.png</name>
+      <query>wooded foothills</query>
+    </card>
+    <card>
+      <id>1SyMCGsa9mipjARSoESl5gg52VB9qSG18</id>
+      <slots>17,18</slots>
+      <name>Gilded Drake.png</name>
+      <query>gilded drake</query>
+    </card>
+    <card>
+      <id>11NaQbb5zkpB91IrXdKWUy0HsWnUrUCLx</id>
+      <slots>19,20,22</slots>
+      <name>Tropical Island.jpg</name>
+      <query>tropical island</query>
+    </card>
+    <card>
+      <id>1BXSTx0V1feQfEkk1kHf3VvT6dI5M_gHp</id>
+      <slots>21</slots>
+      <name>Tropical Island.png</name>
+      <query>tropical island</query>
+    </card>
+    <card>
+      <id>15DfgqWXL1j1xivc1C5SvqWCAh7oE3i1P</id>
+      <slots>24</slots>
+      <name>Fable of the Mirror-Breaker (a).png</name>
+      <query>fable of mirror breaker</query>
+    </card>
+    <card>
+      <id>1AqNpXiv7WGWL5K4vsstemPFtDqZp21gj</id>
+      <slots>23</slots>
+      <name>Fable of the Mirror Breaker (NEO357).png</name>
+      <query>fable of mirror breaker</query>
+    </card>
+    <card>
+      <id>1OQkhsnMZlZrKFZyXOYOWfAwpoIRmdqlP</id>
+      <slots>27</slots>
+      <name>Sol Ring (Extended Black Dom).png</name>
+      <query>sol ring</query>
+    </card>
+    <card>
+      <id>17WtgWsO-MqOYZ-wa2bwOClRjp81rllCm</id>
+      <slots>25</slots>
+      <name>Sol Ring (Masterpiece).png</name>
+      <query>sol ring</query>
+    </card>
+    <card>
+      <id>1Ck1An7aCtd-TuAr8OqysZpn-I8n0ceZB</id>
+      <slots>26</slots>
+      <name>Sol Ring (Art Deco Kekai Kotaki).jpg</name>
+      <query>sol ring</query>
+    </card>
+    <card>
+      <id>1FJd5aK-dJWt0C34C-FNy0gtWCNOrDm_l</id>
+      <slots>28</slots>
+      <name>Mana Vault (Extended Alt).png</name>
+      <query>mana vault</query>
+    </card>
+    <card>
+      <id>1CEvNiB61_OqjoWe-wfG_SW6qDGFmFn2s</id>
+      <slots>32</slots>
+      <name>Delver of Secrets.png</name>
+      <query>delver of secrets</query>
+    </card>
+    <card>
+      <id>1k4w07AFcKua0ldRpmTgXx0pTsEGv4kxg</id>
+      <slots>31,34,35,36,37,38,39,40,41,42,43,44,45,46</slots>
+      <name>Delver of Secrets.jpg</name>
+      <query>delver of secrets</query>
+    </card>
+    <card>
+      <id>1ugbdV4BZK1Bhx4elXkreDr5ShPwdEIqK</id>
+      <slots>30</slots>
+      <name>Delver of Secrets (b).png</name>
+      <query>delver of secrets</query>
+    </card>
+    <card>
+      <id>1d-xh7Ao_HbhpkLsKxLnQqN0OpKu0Lt4j</id>
+      <slots>33</slots>
+      <name>0. Delver of Secrets.png</name>
+      <query>delver of secrets</query>
+    </card>
+    <card>
+      <id>1UhsLaTIriSIcF6J26r2RNaoDuNxU2Td6</id>
+      <slots>29</slots>
+      <name>Delver of Secrets.png</name>
+      <query>delver of secrets</query>
+    </card>
+  </fronts>
+  <backs>
+    <card>
+      <id>1Sw_c_xw_nfCdsEFvzLDBGB6R_XdPR8Z7</id>
+      <slots>24</slots>
+      <name>Reflection of Kiki-Jiki  (Joseph Meehan).png</name>
+      <query>reflection of kiki jiki</query>
+    </card>
+    <card>
+      <id>1d8_nuwbDI32BjVPkfkR0l8171LLby88o</id>
+      <slots>23</slots>
+      <name>Reflection of Kiki-Jiki (ASUKA by Ciloranko).jpg</name>
+      <query>reflection of kiki jiki</query>
+    </card>
+    <card>
+      <id>1GVqgFNgCnwJt7oO494FGfCOHO-0tt2ID</id>
+      <slots>29,30,31,32,34,35,36,39,41,42,43,44,45,46</slots>
+      <name>Insectile Aberration.jpg</name>
+      <query>insectile aberration</query>
+    </card>
+    <card>
+      <id>1czDn8f6NrbDWaFGQfoDQFejoVpn_fY7P</id>
+      <slots>40</slots>
+      <name>Insectile Aberration.png</name>
+      <query>insectile aberration</query>
+    </card>
+    <card>
+      <id>1f3UPS5RLnM-3UCRQh7dJEfSl5WGa3pBp</id>
+      <slots>33,37</slots>
+      <name>Insectile Aberration.png</name>
+      <query>insectile aberration</query>
+    </card>
+    <card>
+      <id>1aX6zOHTJ-uwnyaE-x9I6YvqytSpkWTjR</id>
+      <slots>38</slots>
+      <name>Insectile Aberration.jpg</name>
+      <query>insectile aberration</query>
+    </card>
+  </backs>
+  <cardback>1LrVX0pUcye9n_0RtaDNVl2xPrQgn7CYf</cardback>
+</order>
