@@ -95,6 +95,16 @@ final %>%
   xml_contents() %>%
   xml_set_text(toString(total_cards))
 
+brackets = readLines("brackets.txt",warn=F) %>%
+  as.numeric() %>%
+  subset(. >= total_cards)
+
+final %>%
+  xml_children() %>%
+  xml_child(.,2) %>%
+  xml_contents() %>%
+  xml_set_text(toString(brackets[1]))
+
 filename = paste0("order-for-mpc_",
                   format(Sys.time(), "%Y-%m-%d %I.%M%p"),
                   ".xml")
